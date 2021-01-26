@@ -1,0 +1,152 @@
+body{
+
+/* background-color: #031319; */
+/* background-color: #161b22; */
+/* background-color: #0d1117;   /*github */
+/* background-color: black; */
+background-color: white;
+/* color:white; */
+/* color:black; */
+
+margin: 0;
+padding: 0;
+line-height: 1.8;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+width: 100%;
+/* background-color: black; */
+
+}
+
+
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+/* .nav-items{
+    display: flex; */
+    /* float: right; */
+    /* list-style: none; */
+    /* justify-content: left; */
+    /* font-weight: bolder; */
+    /* box-shadow: 0px 2px #161b22; */
+    /* padding-bottom: 1em; */
+    /* background-color: #0d1117;  */
+    /* margin: 0; */
+    /* padding: 0; */
+    /* height: 5em;
+
+} */
+
+/* .details{
+    background-color: white;
+    text-align: center;
+    padding-bottom: 8em;
+}  */
+
+.card{
+    /* background-color:white; */
+    background-color: #031319;
+    color: white;
+    width: 20em;
+    margin: 2em;
+    border-radius: 2em;
+    box-shadow: 0 0 2px 2px black;
+    padding-top: 1em;
+    
+}
+
+.image img{
+    width: 50%;
+}
+
+.cards{
+
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    padding-left: 10em;
+    /* padding-top: 4em; */
+
+}
+
+.cards :hover{
+box-shadow: 9px 4px #031319;
+border-radius: 2em;  
+cursor: pointer;  
+
+}
+
+input{
+    width: 40em;
+    height: 3em;
+    border-radius: 2em;
+    padding-left: 8em;
+}
+
+/* button{
+    width: 25em;
+    height: 3em;
+    border-radius: 2em;
+    border-style: none;
+    background-color: chartreuse;
+    color: #031319;
+    font-size: 1em;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+button :hover{
+    cursor: pointer;
+    /* box-shadow: 9px 1px wheat; */
+    /* background-color: teal; 
+}*/
+
+/* #details-search{
+    background-color: #031319;
+} */
+
+.search{
+    display: flex;
+    justify-content: center;
+    padding-top: 5em;
+    background-color: #031319;
+    padding-bottom: 5em;
+}
+
+.sb{
+    /* border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em; */
+    border-radius: 0;
+    border-top-left-radius: 1.2em;
+    border-bottom-left-radius: 1.2em;
+    padding: 0.2em;
+    text-align: center;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.si{
+    width: 2.5em;
+    background-color: skyblue;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    border: none;
+    padding-left: 0.5em;    
+}
+
+
+
+
+
+
+
