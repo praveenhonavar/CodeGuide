@@ -2,6 +2,12 @@
 
 Code_Guide is a web mini project 
 
+
+<p align="center">
+  <img src="screenshots/C__DE GUIDE.png">
+</p>
+
+
 ![Home](https://github.com/praveenhonavar/CodeGuide/blob/master/screenshots/landing.png)
 
 
