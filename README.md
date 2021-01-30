@@ -4,7 +4,7 @@ Code_Guide is a web mini project
 
 
 <p align="center">
-  <img src="screenshots/C__DE GUIDE.png">
+  <img src="screenshots/codeguide.png">
 </p>
 
 
