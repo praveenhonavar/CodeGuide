@@ -1,7 +1,5 @@
 # CODE GUIDE
 
-Code_Guide is a web mini project 
-
 
 <p align="center">
   <img src="screenshots/codeguide.png">
@@ -11,11 +9,8 @@ Code_Guide is a web mini project
 <div>
 <p>
 
-
-
 </p>
 </div>
-
 
 
 ![Home](https://github.com/praveenhonavar/CodeGuide/blob/master/screenshots/landing.png)
